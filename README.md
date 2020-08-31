@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: piqi.tech
+- 📫 How to reach me:  [piqi.tech](https://piqi.tech)
 
 <!--
 **FiqSky/FiqSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
