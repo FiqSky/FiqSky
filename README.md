@@ -1,17 +1,13 @@
-### Hi there 👋
-- 📫 How to reach me:  [piqi.tech](https://piqi.tech)
+# 👋 Hi there, I'm [Fiqih Firdaus Maulana](https://piqi.tech). You can call me "Fiqih"
 
-<!--
-**FiqSky/FiqSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Learn, Do, Anyting
 
-Here are some ideas to get you started:
+<a href="https://github.com/FiqSky"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=FiqSky&include_all_commits=true&show_icons=true" align="right" height="150" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: piqi.tech
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐️ Lead of [DSC UBHARA](https://dsc.community.dev/bhayangkara-university-of-surabaya)  university based community groups for students interested in Google developer technologies.
+- 🔥 Mobile Apps Developers Enthusiast.
+- 💬 Contact me via [Email](mailto:fiqihfm05@gmail.com), [LinkedIn](https://www.linkedin.com/in/fiqihfirdausmaulana/), or [Instagram](https://www.instagram.com/fiqsky02/). You can ask me or get help about anything relevant to life, education, and also mobile programming.
+
+<a href="https://github.com/FiqSky">
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/fiqsky?label=FiqSky&style=social">
+</a>
