@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Fiqih Firdaus Maulana](https://piqi.tech). You can call me "Fiqih"
 
-## Happy New Year 2021
+## Learn, do, anything
 
 <a href="https://github.com/FiqSky"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=FiqSky&include_all_commits=true&show_icons=true" align="right" height="150" /></a>
 
