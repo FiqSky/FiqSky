@@ -6,7 +6,7 @@
 
 - ⭐️ Lead of [DSC UBHARA](https://dsc.community.dev/bhayangkara-university-of-surabaya)  university based community groups for students interested in Google developer technologies.
 - 🔥 Mobile Apps Developers Enthusiast.
-- 📝 Menulis beberapa artikel yang berhubungan dengan Android Development di [Medium](https://fiqsky.medium.com/)
+- 📝 Written several articles related to Android Development on [Medium](https://fiqsky.medium.com/)
 - 💬 Contact me via [Email](mailto:fiqihfm05@gmail.com), [LinkedIn](https://www.linkedin.com/in/fiqihfirdausmaulana/), or [Instagram](https://www.instagram.com/fiqsky02/). You can ask me or get help about anything relevant to life, education, and also mobile programming.
 
 <a href="https://github.com/FiqSky">
