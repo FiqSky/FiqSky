@@ -12,3 +12,9 @@
 <a href="https://github.com/FiqSky">
   <img alt="Github Follow" src="https://img.shields.io/github/followers/fiqsky?label=FiqSky&style=social">
 </a>
+<a href="https://github.com/FiqSky">
+  <imd alt="FiqSky" src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet>
+</a>
+<!-- <a href="https://github.com/FiqSky">
+  <img src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet />
+</a> -->
