@@ -15,9 +15,9 @@
 <a href="https://github.com/FiqSky">
   <imd alt="FiqSky" src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet>
 </a>
-<!-- <a href="https://github.com/FiqSky">
+<a href="https://github.com/FiqSky">
   <img src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet />
-</a> -->
+</a>
 <!-- <a>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=FiqSky&layout=compact />
 </a> -->
