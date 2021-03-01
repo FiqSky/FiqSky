@@ -1,8 +1,7 @@
-# 👋 Hi there, I'm [Fiqih Firdaus Maulana](https://piqi.tech). You can call me "Fiqih"
+# Hi, I'm [Fiqih](https://fiqq.xyz). 
 
-## Learn, do, anything
-
-<a href="https://github.com/FiqSky"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=FiqSky&include_all_commits=true&show_icons=true" align="right" height="150" /></a>
+<!-- <a href="https://github.com/FiqSky"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=FiqSky&include_all_commits=true&show_icons=true" align="right" height="150" />
+</a> -->
 
 - ⭐️ Lead of [DSC UBHARA](https://dsc.community.dev/bhayangkara-university-of-surabaya)  university based community groups for students interested in Google developer technologies.
 - 🔥 Mobile Apps Developers Enthusiast.
@@ -12,12 +11,12 @@
 <a href="https://github.com/FiqSky">
   <img alt="Github Follow" src="https://img.shields.io/github/followers/fiqsky?label=FiqSky&style=social">
 </a>
-<a href="https://github.com/FiqSky">
+<!-- <a href="https://github.com/FiqSky">
   <imd alt="FiqSky" src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet>
 </a>
 <a href="https://github.com/FiqSky">
   <img src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet />
-</a>
+</a> -->
 <!-- <a>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=FiqSky&layout=compact />
 </a> -->
