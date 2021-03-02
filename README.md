@@ -1,5 +1,7 @@
 # Hi, I'm [Fiqih](https://fiqq.xyz). 
 
+<!-- <a href="https://github.com/fiqsky"><img alt="Android" src="https://user-images.githubusercontent.com/45449889/109673967-1a8bef80-7ba9-11eb-890d-ce0f968e820d.gif" align="right" height="150" /></a> -->
+
 <!-- <a href="https://github.com/FiqSky"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=FiqSky&include_all_commits=true&show_icons=true" align="right" height="150" />
 </a> -->
 
