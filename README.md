@@ -1,26 +1,15 @@
-# Hi, I'm [Fiqih](https://fiqq.xyz). 
+# Hey there, I'm [Fiqih](https://piq.my.id). 👋
 
-<a href="https://github.com/fiqsky"><img alt="Android" src="https://user-images.githubusercontent.com/45449889/109675249-317f1180-7baa-11eb-9a76-a96b259408e2.gif" align="right" height="150" /></a>
+🚀 I'm a Mobile App Developer with a passion for crafting innovative Android solutions. In 2020, I led [DSC UBHARA](https://dsc.community.dev/bhayangkara-university-of-surabaya), a student community dedicated to Google developer technologies.
 
-<!-- <a href="https://github.com/fiqsky"><img alt="Android" src="https://user-images.githubusercontent.com/45449889/109673967-1a8bef80-7ba9-11eb-890d-ce0f968e820d.gif" align="right" height="150" /></a> -->
+## About Me
 
-<!-- <a href="https://github.com/FiqSky"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=FiqSky&include_all_commits=true&show_icons=true" align="right" height="150" />
-</a> -->
+- 💡 I'm a Mobile Apps Developer enthusiast.
+- ✍️ I've penned several articles on [Medium](https://fiqsky.medium.com/) about Android Development.
+- 📫 Reach out to me through [Email](mailto:fiqihfm05@gmail.com), [LinkedIn](https://www.linkedin.com/in/fiqihfirdausmaulana/), or [Instagram](https://www.instagram.com/fiqsky02/) for any questions or discussions.
 
-- ⭐️ 2020 Lead of [DSC UBHARA](https://dsc.community.dev/bhayangkara-university-of-surabaya)  university based community groups for students interested in Google developer technologies.
-- 🔥 Mobile Apps Developers Enthusiast.
-- 📝 Written several articles related to Android Development on [Medium](https://fiqsky.medium.com/)
-- 💬 Contact me via [Email](mailto:fiqihfm05@gmail.com), [LinkedIn](https://www.linkedin.com/in/fiqihfirdausmaulana/), or [Instagram](https://www.instagram.com/fiqsky02/). You can ask me or get help about anything relevant to life, education, and also mobile programming.
+## Connect with Me
 
 <a href="https://github.com/FiqSky">
-  <img alt="Github Follow" src="https://img.shields.io/github/followers/fiqsky?label=FiqSky&style=social">
+  <img alt="GitHub Follow" src="https://img.shields.io/github/followers/fiqsky?label=FiqSky&style=social">
 </a>
-<!-- <a href="https://github.com/FiqSky">
-  <imd alt="FiqSky" src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet>
-</a>
-<a href="https://github.com/FiqSky">
-  <img src=https://komarev.com/ghpvc/?username=FiqSky&color=blueviolet />
-</a> -->
-<!-- <a>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=FiqSky&layout=compact />
-</a> -->
