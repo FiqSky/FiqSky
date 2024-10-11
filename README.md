@@ -6,7 +6,7 @@
 
 - 💡 Passionate about Mobile App Development and constantly exploring new trends and technologies.
 - ✍️ I've written several articles on [Medium](https://fiqsky.medium.com/) focusing on Android Development.
-- 📫 Feel free to reach out to me via [Email](mailto:fiqihfm05@gmail.com), [LinkedIn](https://www.linkedin.com/in/fiqihfirdausmaulana/), or [Instagram](https://www.instagram.com/fiqsky02/) for any questions or discussions.
+- 📫 Feel free to reach out to me via [Email](mailto:fiqihfm05@gmail.com), [LinkedIn](https://www.linkedin.com/in/fiqihfirdausmaulana/), or [Instagram](https://www.instagram.com/fiqifm/) for any questions or discussions.
 
 ## Connect with Me
 
